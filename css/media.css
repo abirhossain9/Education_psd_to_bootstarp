@@ -1,0 +1,830 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px)
+{
+/*menu start*/
+.logo
+{
+width: 170px;
+margin-bottom: 10px;
+}
+.menu ul li
+{
+text-align: center;
+}
+.drop_center
+{
+text-align: center;
+}
+.menu ul li a {
+font-size: 16px;
+}
+.search_top
+{
+padding-right: 5px;
+}
+.searchbar{
+height: 40px;
+padding: 7px;
+}
+.searchbar:hover > .search_input{
+width: 100px;
+}
+.toggle_center {
+left: 40px;
+}
+/*menu end*/
+/*banner start*/
+.banner
+{
+background-image: none;
+background-color: white;
+}
+.banner_header h1 {
+margin-top: 70px;
+margin-bottom: 120px;
+font-size: 25px;
+letter-spacing: 0px;
+word-spacing: 1px;
+}
+.banner_header p
+{
+font-size: 16px;
+}
+.banner_header i
+{
+font-size: 25px;
+}
+/*banner end*/
+/*giraffe start*/
+.giraffe
+{
+padding-top: 50px;
+padding-bottom: 40px;
+}
+.common_title
+{
+margin-bottom: 20px;
+}
+.common_title h1 {
+font-size: 21px;
+}
+.content
+{
+text-align: center;
+}
+.content h1
+{
+font-size: 20px;
+}
+.content hr {
+margin: 0 auto;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.cmn_img {
+width: 150px;
+}
+.content_img
+{
+margin-top: 15px;
+}
+/*giraffe end*/
+/*<!-- Kid education start -->*/
+.kid_education
+{
+padding-top: 50px;
+padding-bottom: 40px;
+}
+.single {
+padding-top: 10px;
+}
+.single p {
+font-size: 20px;
+}
+/*<!-- Kid education end -->*/
+/*courses start*/
+.courses
+{
+padding-top: 50px;
+padding-bottom: 40px;
+}
+/*card start*/
+.math_text {
+padding-bottom: 0px;
+}
+.card {
+width: 80%;
+margin: 20px auto;
+}
+.profile {
+width: 45px;
+height: 45px;
+}
+/*card end*/
+/*courses end*/
+/*moments start*/
+.moments
+{
+padding-top: 50px;
+padding-bottom: 40px;
+}
+/*moments end*/
+/*stand start*/
+.twitter_logo {
+margin-bottom: 60px;
+}
+.stand {
+padding-top: 50px;
+padding-bottom: 30px;
+}
+.stand_img
+{
+text-align: center;
+}
+.stand_img img
+{
+width: 160px;
+}
+.stand_content {
+text-align: center;
+margin-bottom: 20px;
+}
+.stand_content a {
+font-size: 16px;
+}
+.stand_content h1 {
+font-size: 20px;
+padding-top: 10px;
+}
+.stand_content hr
+{
+margin: 5px 0px;
+}
+.c_logos
+{
+margin-bottom: 8px;
+}
+.stand_content p {
+margin-bottom: 5px;
+}
+/*stand end*/
+/*works start*/
+.events
+{
+padding-top: 50px;
+padding-bottom: 30px;
+}
+.works
+{
+padding-top: 50px;
+padding-bottom: 30px;
+}
+.s_work p {
+font-size: 18px;
+}
+.s_work img
+{
+width: 120px;
+}
+/*works end*/
+/*events start*/
+.aug_content {
+margin-bottom: 20px;
+text-align: center;
+}
+.aug_logo img
+{
+	width: 100px;
+}
+.event_title {
+margin-bottom: 40px;
+text-align: center !important;
+}
+.event_title hr
+{
+margin:auto;
+}
+.aug_text h1 {
+font-size: 20px;
+}
+.news_body {
+text-align: center;
+}
+.event_title_2 {
+margin-top: 20px;
+margin-bottom: 20px;
+}
+.news_content h1 {
+margin-top: 10px;
+font-size: 22px;
+}
+.news_img img
+{
+width: 200px;
+}
+.news_content hr {
+width: 99%;
+margin-left: 0%;
+}
+/*events end*/
+/*contact us start*/
+.contactus {
+background-image: none;
+background-color: white;
+padding-top: 20px;
+padding-bottom: 30px;
+}
+.m_top_20
+{
+margin-top: 30px;
+text-align: center;
+}
+.com_dot h3
+{
+font-size: 20px;
+letter-spacing: 1px
+}
+.main_logo p {
+    margin-bottom: 5px;
+}
+.com_dot hr {
+    margin: 15px auto;
+}
+.main_logo img
+{
+margin-bottom: 10px;
+width: 180px;
+}
+.main_logo p
+{
+letter-spacing: 0px;
+word-spacing: 0px;
+}
+.part3 p {
+
+    margin-bottom: 5px;
+}
+/*contact us end*/
+/*footer start*/
+.footer_con ul
+{
+	text-align: center;
+}
+.footer_con ul li a
+{
+	font-size: 16px;
+	border: none;
+padding-right: 0px;
+ padding-left: 0px;
+
+}
+.copyright
+{
+	text-align: center;
+}
+/*footer end*/
+}
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px)
+{
+/*menu start*/
+.logo
+{
+width: 180px;
+}
+.menu ul li {
+text-align: center;
+}
+.drop_center
+{
+text-align: center;
+}
+.menu ul li a
+{
+font-size: 16px;
+}
+.search_top
+{
+padding-right: 5px;
+}
+.searchbar{
+height: 40px;
+padding: 7px;
+}
+.searchbar:hover > .search_input{
+width: 130px;
+}
+.toggle_center {
+left: 150px;
+}
+/*menu end*/
+/*banner start*/
+.banner
+{
+background-image: none;
+background-color: white;
+}
+.banner_header h1 {
+margin-top: 80px;
+margin-bottom: 130px;
+font-size: 30px;
+letter-spacing: 0px;
+word-spacing: 1px;
+}
+.banner_header p
+{
+font-size: 16px;
+}
+.banner_header i
+{
+font-size: 30px;
+}
+/*banner end*/
+/*giraffe start*/
+.giraffe
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+.common_title h1 {
+font-size: 22px;
+}
+.content
+{
+text-align: center;
+}
+.content hr {
+margin: 0 auto;
+margin-bottom: 10px;
+margin-top: 10px;
+}
+.cmn_img {
+width: 180px;
+}
+.content_img
+{
+margin-top: 20px;
+}
+/*giraffe end*/
+/*<!-- Kid education start -->*/
+.kid_education
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+.single {
+padding-top: 14px;
+}
+.single p {
+font-size: 22px;
+}
+/*<!-- Kid education end -->*/
+/*courses start*/
+.courses
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+/*card start*/
+.math_text {
+padding-bottom: 0px;
+}
+.card {
+/*margin-top: 25px;*/
+width: 60%;
+margin: 20 auto;
+margin: 20px auto;
+}
+.profile {
+width: 50px;
+height: 50px;
+}
+/*card end*/
+/*courses end*/
+/*moments start*/
+.moments
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+/*moments end*/
+/*stand start*/
+.stand {
+padding-top: 70px;
+padding-bottom: 65px;
+}
+.stand_content {
+margin-bottom: 10px;
+}
+/*stand end*/
+/*works start*/
+.works
+{
+padding-top: 70px;
+padding-bottom: 60px;
+}
+.s_work p {
+font-size: 19px;
+}
+.s_work img
+{
+width: 130px;
+}
+/*works end*/
+/*events start*/
+.events
+{
+padding-top: 70px;
+padding-bottom: 65px;
+}
+.aug_content {
+margin-bottom: 30px;
+text-align: center;
+}
+.event_title {
+margin-bottom: 50px;
+text-align: center !important;
+}
+.event_title hr
+{
+margin:auto;
+}
+.aug_text h1 {
+font-size: 22px;
+}
+.news_body {
+text-align: center;
+}
+.event_title_2 {
+margin-top: 30px;
+margin-bottom: 30px;
+}
+.news_content h1 {
+margin-top: 10px;
+}
+.news_img img
+{
+width: 250px;
+}
+.news_content hr {
+width: 99%;
+margin-left: 0%;
+}
+/*events end*/
+/*contact us start*/
+.contactus {
+background-image: none;
+background-color: white;
+padding-top: 30px;
+padding-bottom: 55px;
+}
+.m_top_20
+{
+margin-top: 30px;
+}
+.com_dot h3
+{
+font-size: 22px;
+}
+.com_dot hr
+{
+width: 55%;
+}
+.main_logo img
+{
+margin-bottom: 10px;
+width: 180px;
+}
+.main_logo p
+{
+letter-spacing: 0px;
+word-spacing: 0px;
+}
+/*contact us end*/
+/*footer start*/
+.footer_con ul
+{
+	text-align: center;
+}
+.footer_con ul li a
+{
+	font-size: 16px;
+
+}
+.copyright
+{
+	text-align: center;
+}
+/*footer end*/
+}
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px)
+{
+/*menu start*/
+.logo
+{
+width: 180px;
+}
+.menu ul li
+{
+text-align: center;
+}
+.drop_center
+{
+text-align: center;
+}
+.menu ul li a {
+font-size: 16px;
+}
+.search_top
+{
+padding-right: 5px;
+}
+.searchbar{
+height: 40px;
+padding: 7px;
+}
+.searchbar:hover > .search_input{
+width: 300px;
+}
+.toggle_center
+{
+left: 240px;
+}
+/*menu end*/
+/*banner start*/
+.banner_header h1 {
+margin-top: 151px;
+margin-bottom: 150px;
+font-size: 40px
+}
+.banner_header p
+{
+font-size: 16px;
+}
+.banner_header i
+{
+font-size: 35px;
+}
+/*banner end*/
+/*giraffe start*/
+.giraffe
+{
+padding-top: 85px;
+padding-bottom: 70px;
+}
+.cmn_img
+{
+width: 200px;
+}
+/*giraffe end*/
+/*<!-- Kid education start -->*/
+.single p {
+font-size: 22px;
+font-weight: 700;
+color: white;
+}
+.kid_education
+{
+padding-top: 85px;
+padding-bottom: 70px;
+}
+/*<!-- Kid education start -->*/
+/*courses start*/
+.common_title h1 {
+font-size: 26px;
+}
+.courses
+{
+padding-top: 85px;
+padding-bottom: 70px;
+}
+/*card start*/
+.math_text {
+padding-bottom: 0px;
+}
+.card {
+/*margin-top: px;  */
+width: 80%;
+margin:25px auto;
+}
+.math_text {
+padding-bottom: 20px;
+}
+/*card end*/
+/*courses end*/
+/*moments start*/
+.moments
+{
+padding-top: 85px;
+padding-bottom: 70px;
+}
+/*moments end*/
+/*stand start*/
+.stand {
+padding-top: 75px;
+padding-bottom: 60px;
+}
+.stand_content {
+margin-bottom: 12px;
+}
+.stand_content p {
+font-family: 'Lato', sans-serif;
+font-weight: 300;
+font-size: 12px;
+color: #333333;
+margin-bottom: 0px;
+}
+.stand_content h1 {
+font-size: 21px;
+padding-top: 9px;
+}
+.stand_content h4 {
+margin-top: 0px;
+}
+.stand_content hr
+{
+margin-bottom: 5px;
+margin-top: 0px;
+}
+.c_logos
+{
+margin-bottom: 2px;
+}
+/*stand end*/
+/*works start*/
+.works
+{
+padding-top: 80px;
+padding-bottom: 60px;
+}
+.s_work p {
+font-size: 19px;
+}
+.s_work img
+{
+width: 130px;
+}
+/*works end*/
+/*events start*/
+.events
+{
+padding-top: 85px;
+padding-bottom: 70px;
+}
+.event_title {
+margin-bottom: 50px;
+}
+.event_title_2
+{
+margin-bottom: 25px !important;
+}
+.aug_text h1 {
+font-size: 18px;
+padding-top: 0px;
+}
+.news_body {
+margin-top: 20px;
+}
+.news_img img{
+/*margin-top: px;*/
+}
+.news_content h1 {
+font-size: 18px;
+}
+.news_content hr {
+margin-bottom: 6px;
+margin-top: 6px;
+}
+.news_content h4 {
+letter-spacing: 0px;
+word-spacing: 0px;
+}
+/*events end*/
+/*contact us start*/
+.contactus {
+background-image: none;
+background-color: white;
+padding-top: 40px;
+padding-bottom: 70px;
+}
+.m_top_20
+{
+margin-top: 40px;
+}
+.com_dot h3
+{
+font-size: 22px;
+}
+.com_dot hr
+{
+width: 55%;
+}
+/*contact us end*/
+
+/*footer start*/
+.footer_con ul
+{
+	text-align: center;
+}
+.footer_con ul li a
+{
+	font-size: 16px;
+
+}
+.copyright
+{
+	text-align: center;
+}
+/*footer end*/
+}
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px)
+{
+/*menu start*/
+.menu ul li a {
+font-size: 16px;
+padding: 0px 8px !important;
+}
+/*menu end*/
+/*banner start*/
+.banner_header h1 {
+margin-top: 180px;
+margin-bottom: 220px;
+font-size: 45px;
+}
+/*banner end
+/*courses start */
+.common_title h1 {
+font-size: 27px;
+}
+/*card start*/
+.black {
+font-size: 22px;
+}
+.env_text {
+padding-bottom: 18px;
+}
+.art_text {
+padding-bottom: 18px;
+}
+.math_text {
+padding-bottom: 38px;
+}
+/*card end*/
+/*course end*/
+/*stand start*/
+.stand {
+padding-top: 90px;
+padding-bottom: 90px;
+}
+/*stand end*/
+/*event start*/
+.aug_text h1 {
+font-size: 22px;
+padding-top: 0px;
+}
+.news_content h1 {
+font-size: 22px;
+letter-spacing: 1px;
+}
+.news_body {
+margin-top: 25px;
+}
+/*event end*/
+/*contact us start*/
+.contactus {
+background-image: none;
+background-color: white;
+padding-top: 90px;
+padding-bottom: 80px;
+}
+/*contact us end*/
+/*footer start*/
+.footer_con a {
+    font-size: 14px;
+    padding-right: 11px;
+    padding-left: 9px;
+}
+.copyright p {
+
+    font-size: 13px;
+   
+}
+/*footer end*/
+}
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1440px)
+{
+.banner_header h1 {
+margin-top: 270px;
+margin-bottom: 350px;
+}
+.contactus {
+padding-top: 168px;
+padding-bottom: 60px;
+}
+}
+@media (min-width: 1441px)
+{
+}
